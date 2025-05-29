@@ -1,4 +1,4 @@
-# FUTURE_ML_02
+# Box Office Revenue Prediction using ML
 A model predicting the box office performance of movies based on genre, cast and production budget, with a report highlighting key influencing factors.
 
 XGBoost Algorithm
